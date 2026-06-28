@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+data/processed/*.csv
+data/warehouse/*.db
+data/raw/*.csv
+data/raw/**/*.csv

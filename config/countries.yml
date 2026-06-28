@@ -1,0 +1,141 @@
+countries:
+  - code: AR
+    name: Argentina
+    region: Latin America
+    continent: South America
+    avg_annual_temp_c: 14.8
+    latitude: -38.4
+    longitude: -63.6
+  - code: BR
+    name: Brazil
+    region: Latin America
+    continent: South America
+    avg_annual_temp_c: 25.0
+    latitude: -14.2
+    longitude: -51.9
+  - code: CO
+    name: Colombia
+    region: Latin America
+    continent: South America
+    avg_annual_temp_c: 24.5
+    latitude: 4.6
+    longitude: -74.1
+  - code: MX
+    name: Mexico
+    region: Latin America
+    continent: North America
+    avg_annual_temp_c: 21.0
+    latitude: 23.6
+    longitude: -102.5
+  - code: US
+    name: United States
+    region: North America
+    continent: North America
+    avg_annual_temp_c: 11.5
+    latitude: 37.1
+    longitude: -95.7
+  - code: CA
+    name: Canada
+    region: North America
+    continent: North America
+    avg_annual_temp_c: -5.4
+    latitude: 56.1
+    longitude: -106.3
+  - code: ES
+    name: Spain
+    region: Southern Europe
+    continent: Europe
+    avg_annual_temp_c: 13.3
+    latitude: 40.4
+    longitude: -3.7
+  - code: GB
+    name: United Kingdom
+    region: Western Europe
+    continent: Europe
+    avg_annual_temp_c: 9.3
+    latitude: 55.4
+    longitude: -3.4
+  - code: DE
+    name: Germany
+    region: Central Europe
+    continent: Europe
+    avg_annual_temp_c: 8.5
+    latitude: 51.2
+    longitude: 10.5
+  - code: FR
+    name: France
+    region: Western Europe
+    continent: Europe
+    avg_annual_temp_c: 10.7
+    latitude: 46.2
+    longitude: 2.2
+  - code: PL
+    name: Poland
+    region: Central Europe
+    continent: Europe
+    avg_annual_temp_c: 7.9
+    latitude: 51.9
+    longitude: 19.1
+  - code: SE
+    name: Sweden
+    region: Nordic Europe
+    continent: Europe
+    avg_annual_temp_c: 2.1
+    latitude: 60.1
+    longitude: 18.6
+  - code: NO
+    name: Norway
+    region: Nordic Europe
+    continent: Europe
+    avg_annual_temp_c: 1.5
+    latitude: 60.5
+    longitude: 8.5
+  - code: JP
+    name: Japan
+    region: East Asia
+    continent: Asia
+    avg_annual_temp_c: 11.2
+    latitude: 36.2
+    longitude: 138.3
+  - code: KR
+    name: South Korea
+    region: East Asia
+    continent: Asia
+    avg_annual_temp_c: 11.5
+    latitude: 35.9
+    longitude: 127.8
+  - code: IN
+    name: India
+    region: South Asia
+    continent: Asia
+    avg_annual_temp_c: 24.0
+    latitude: 20.6
+    longitude: 78.9
+  - code: PH
+    name: Philippines
+    region: Southeast Asia
+    continent: Asia
+    avg_annual_temp_c: 26.6
+    latitude: 12.9
+    longitude: 121.8
+  - code: NG
+    name: Nigeria
+    region: West Africa
+    continent: Africa
+    avg_annual_temp_c: 26.8
+    latitude: 9.1
+    longitude: 8.7
+  - code: ZA
+    name: South Africa
+    region: Southern Africa
+    continent: Africa
+    avg_annual_temp_c: 17.5
+    latitude: -30.6
+    longitude: 22.9
+  - code: AU
+    name: Australia
+    region: Oceania
+    continent: Oceania
+    avg_annual_temp_c: 21.6
+    latitude: -25.3
+    longitude: 133.8
